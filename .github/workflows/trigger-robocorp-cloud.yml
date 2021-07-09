@@ -20,4 +20,4 @@ jobs:
         with:
           workspace-key: ${ 3z8RYPI0ZmHb2HysNUnthoTjAI3U7hhJu7JF9uLcCTmVIukF1LLNl7el4HkJw2VXH22cw8mpmkyPyEfteea5fqtnfWHFt }
           workspace-id: ${ c15a332a-b247-4260-b911-de6422cdf4e6 }
-          robot-id: ${{ 7565 }}
+          robot-id: ${6994}
