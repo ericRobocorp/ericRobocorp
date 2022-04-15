@@ -1,0 +1,20 @@
+{
+    "B2": {
+        "confidence": 80.0,
+        "path": ".images/b2-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "Begin": {
+        "confidence": 80.0,
+        "path": ".images/begin-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "Continue": {
+        "confidence": 80.0,
+        "path": ".images/continue-path.png",
+        "source": null,
+        "type": "image"
+    }
+}
